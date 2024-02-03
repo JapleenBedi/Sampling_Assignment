@@ -26,7 +26,7 @@ The sample size is calculated using the formula: \( n = \frac{Z^2 \cdot p \cdot 
 
 ## Accuracy Scores
 
-| \ | Model 1 (LR) | Model 2 (SVC) | Model 3 (XGB) | Model 4 (RF) | Model 5 (GB) |
+| Sampling Techniques| Model 1 (LR) | Model 2 (SVC) | Model 3 (XGB) | Model 4 (RF) | Model 5 (GB) |
 | --- | --- | --- | --- | --- | --- |
 | **Sample 1 (Simple Random)** | 0.87 | 0.93 | 0.94 | 0.99 | 0.78 |
 | **Sample 2 (Systematic Random)** | 0.89 | 0.94 | 0.97 | 0.97 | 0.81 |
